@@ -1,0 +1,7 @@
+## Interface: 110200
+## Title: Hatt
+## Notes: Celebrates when you loot a head-armor item.
+## Author: Hatt
+## Version: 1.0.0
+
+Hatt.lua
